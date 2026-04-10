@@ -3,20 +3,20 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
-    <loc>https://karlie-hegarty.vercel.app/</loc>
+    <loc>https://karliehegarty.com/</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://karlie-hegarty.vercel.app/og.png</image:loc>
+      <image:loc>https://karliehegarty.com/og.png</image:loc>
       <image:title>Karlie Hegarty — Reality TV Casting Editor</image:title>
       <image:caption>Reality TV Casting Editor portfolio — Bravo, NBC, Netflix</image:caption>
     </image:image>
     <video:video>
-      <video:thumbnail_loc>https://karlie-hegarty.vercel.app/og.png</video:thumbnail_loc>
+      <video:thumbnail_loc>https://karliehegarty.com/og.png</video:thumbnail_loc>
       <video:title>Karlie Hegarty — Casting Reel 2026</video:title>
       <video:description>Reality TV Casting Editor reel featuring work on The Real Housewives, The Voice, Ladies of London, Love Hotel, and more.</video:description>
-      <video:content_loc>https://karlie-hegarty.vercel.app/reel.mp4</video:content_loc>
+      <video:content_loc>https://karliehegarty.com/reel.mp4</video:content_loc>
       <video:duration>114</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>

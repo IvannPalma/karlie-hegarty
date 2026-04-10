@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "karlie-hegarty.vercel.app"
+        }
+      ],
+      "destination": "https://karliehegarty.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.karliehegarty.com"
+        }
+      ],
+      "destination": "https://karliehegarty.com/:path*",
+      "permanent": true
+    }
+  ]
+}
